@@ -1,0 +1,13 @@
+I. Giới thiệu
+	1. Bài toán mở đầu (Đặt vấn đề)
+	2. Khái niệm
+	3. Đặc điểm nhận dạng
+	4. Cách giải quyết
+II. Một số bài toán đặc trưng sử dụng thuật toán tham lam (Huffman, Activity-Selection, Prim)
+- Các bước làm.
+- Ứng dụng thuật toán đó vào bài toán cụ thể.
+- Đánh giá độ phức tạp khi áp dụng thuật toán tham lam vào.
+III. Ưu nhược điểm 
+- Ưu điểm.
+- Đưa ra bài toán không thích hợp -> Nêu nhược điểm.
+
